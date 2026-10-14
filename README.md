@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I am Rahaf Almuhaya</h1>
-<h3 align="center">A passionate CS student</h3>
-
-- I am **Computer Science graduate**
+<h3 align="center">A passionate CS graduate</h3>
 
 - How to reach me **raalmuhaya@gmail.com**
 
